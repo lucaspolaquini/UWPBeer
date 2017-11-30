@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UWP.Beer.ViewModels
 {
-    class ViewModel
+  public class AvaliacaoViewModel
     {
     }
 }

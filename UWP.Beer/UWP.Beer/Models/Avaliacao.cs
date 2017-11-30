@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace UWP.Beer.Models
 {
-    class Model
+    public class Avaliacao
     {
+        public int Id { get; set; }
+        public int Nota { get; set; }
+        public string Comentario { get; set; }
     }
 }
